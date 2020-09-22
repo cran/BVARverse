@@ -1,0 +1,10 @@
+035d1e3cfad0565253784e5c466b6384 *DESCRIPTION
+ad1833dc1df6ca1ca7ce0a429477ddf4 *NAMESPACE
+aa0837c0a4349b099e4be5d057116aea *R/BVAR.R
+45b62f682aaea5c30eba9620535ee2b0 *R/augment.R
+1cc21299856e13c0070a42f4ca631011 *R/ggplot.R
+af36fcad46954df17280d827d54ccf7e *R/tidy.R
+cd188be89d5840a2b50775793a6e38a9 *man/augment.bvar.Rd
+15ddb3a3c11dcad9586ba97059cd7c1e *man/bv_ggplot.Rd
+8ca082bc609c4588c66c8127f7f78160 *man/reexports.Rd
+141df6bce3392b4991f69ffc47541e4b *man/tidy.bvar.Rd
